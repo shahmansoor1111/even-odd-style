@@ -1,0 +1,9 @@
+.odd{
+    background-color: black; 
+    color: wheat;
+    text-align: center;
+}
+.even {
+    background-color: aqua;
+    color: red;
+}
